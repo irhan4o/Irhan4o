@@ -7,7 +7,17 @@ I am a computer science student passionate about programming in **C#**, working 
 🎧 I created and host our school podcast "**Glasa na Obreshkov**," where I share stories and interviews with interesting guests from our school.
 
 ## Skills & Technologies
-- Programming: C#, SQL, HTML
+<div class="skills">
+  <button class="skill html5"><i class="fab fa-html5"></i> HTML5</button>
+  <button class="skill css3"><i class="fab fa-css3"></i> CSS3</button>
+  <button class="skill bootstrap"><i class="fab fa-bootstrap"></i> Bootstrap</button>
+  <button class="skill csharp"><i class="fab fa-microsoft"></i> C#</button>
+  <button class="skill net"><i class="fab fa-windows"></i> .NET</button>
+  <button class="skill python"><i class="fab fa-python"></i> Python</button>
+  <button class="skill django"><i class="fab fa-python"></i> Django</button>
+  <button class="skill mysql"><i class="fas fa-database"></i> MySQL</button>
+  <button class="skill postgresql"><i class="fas fa-database"></i> PostgreSQL</button>
+</div>
 - Video & Streaming: filming, editing, live broadcasts
 - Photography: professional shoots and image editing
 
