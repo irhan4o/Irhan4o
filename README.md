@@ -35,17 +35,44 @@ I am a computer science student passionate about programming in **C#**, working 
 ---
 
 Thank you for visiting my profile! Feel free to reach out for questions or collaborations.
-<!--
-**irhan4o/Irhan4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.skills {
+  display: flex;
+  gap: 10px;
+  background: #181920;
+  padding: 10px 0;
+}
 
-Here are some ideas to get you started:
+.skill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 18px;
+  font-size: 16px;
+  color: #fff;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+.html5 { background: #F95C2C; }
+.css3 { background: #2492FE; }
+.bootstrap { background: #6C3FB2; }
+.csharp { background: #51B262; }
+.net { background: #5B2CF1; }
+.python { background: #FFDE57; color: #2C4251; }
+.django { background: #159E38; }
+.mysql { background: #2596A9; }
+.postgresql { background: #34548D; }
+
+.skill i {
+  font-size: 20px;
+}
+.skill:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
