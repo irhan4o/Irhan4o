@@ -30,3 +30,5 @@ I am a computer science student passionate about programming in **C#**, working 
 - 🎥 Videos & streaming: irhan4o
 - 💼 LinkedIn: https://www.linkedin.com/in/erhan-nebi-4b226226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📧 Email: erhanemin594@gmail.com
+  ## Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irhan4o)](https://github.com/anuraghazra/github-readme-stats)
