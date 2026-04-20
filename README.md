@@ -1,7 +1,7 @@
 # Hi there! I'm Erhan 👋
 
 ## About Me
-I am a computer science student passionate about programming in **C#**, working with **SQL**, and creating web content with **HTML**. Beyond coding, I love **photography**, video creation, and live streaming.
+I am a computer science student passionate about programming in **C#** and **Python** , working with **SQL**, and creating web content with **HTML**. Beyond coding, I love **photography**, video creation, and live streaming.
 
 ## My Podcast 🎙️
 🎧 I created and host our school podcast "**Glasa na Obreshkov**," where I share stories and interviews with interesting guests from our school.
